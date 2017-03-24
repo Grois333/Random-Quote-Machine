@@ -1,0 +1,46 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,500);
+
+
+
+body{
+  background-color: green;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+}
+
+.btn{
+  color: green;
+  
+}
+
+
+
+h1{
+  font-size: 50px;
+}
+
+p{
+  font-style: italic;
+  font-size: 20px;
+}
+
+.quotes{
+  font-size: 30px;
+}
+
+
+
+.author{
+  font-size: 20px;
+  font-style: italic;
+}
+
+
+
+.twitter-share-button{
+  color: white;
+ 
+}
+
+
+
